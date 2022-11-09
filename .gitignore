@@ -1,0 +1,5 @@
+# Ignore everything inside the export folder
+exports/*
+
+# Ignore output file
+output.csv
